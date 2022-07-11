@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mleonorpaiva@gmail.com
+	name = Leonor Paiva GC
